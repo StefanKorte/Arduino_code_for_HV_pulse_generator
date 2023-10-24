@@ -11,7 +11,7 @@ Parameters here are:
 	charging constant alpha=-L/R of the coil,
 	maximum achievable output voltage.
 
-The set voltage is displayed on a 8x2 LCD.
+The set voltage is displayed on an 8x2 LCD.
 
 The output is set to HIGH for the calculated charge time.
 When the output is switched back to LOW, the pulse is generated.
